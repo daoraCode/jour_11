@@ -1,0 +1,22 @@
+{
+  "name": "jour_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daoraCode/jour_11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daoraCode/jour_11/issues"
+  },
+  "homepage": "https://github.com/daoraCode/jour_11#readme",
+  "dependencies": {
+    "prompt": "^1.2.0"
+  }
+}
